@@ -1,6 +1,8 @@
 📊 Netflix Data Analysis Dashboard – Power BI
 📌 Project Overview
-This project analyzes Netflix content data using Power BI to uncover trends in content type, genre, release year, and ratings.
+This project analyses Netflix content data using Power BI to uncover trends in content type, genre, release year, and ratings.
+
+I am working on this project right now.
 
 🛠️ Tools Used
 Power BI
